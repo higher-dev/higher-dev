@@ -1,16 +1,17 @@
-## Hi there 👋
+🌟 Passionate Developer | Responsible Coder | Problem Solver 🌟
 
-<!--
-**higher-dev/higher-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hello! I'm a dedicated and enthusiastic software developer with a strong commitment to crafting clean, efficient, and maintainable code. With a keen eye for detail and a love for innovation, I thrive on tackling challenging problems and delivering high-quality solutions.
 
-Here are some ideas to get you started:
+Skills:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Languages: JavaScript, Python, Java, C++
+Frameworks: React, Node.js, Django, Spring Boot
+Tools: Git, Docker, Kubernetes, Jenkins
+Databases: MySQL, PostgreSQL, MongoDB
+Values:
+
+Responsibility: I take pride in my work and always strive to meet deadlines while maintaining the highest standards of quality.
+Passion: Coding is not just a job for me; it's a passion. I am always eager to learn new technologies and improve my skills.
+Collaboration: I believe in the power of teamwork and enjoy working with others to achieve common goals.
+Continuous Improvement: I am committed to personal and professional growth, always seeking opportunities to enhance my knowledge and expertise.
+Let's connect and create something amazing together!
