@@ -5,7 +5,7 @@ Hello! I'm a dedicated and enthusiastic software developer with a strong commitm
 Skills:
 
 Languages: JavaScript, Python, Java, C++ \
-Frameworks: React, Node.js, Django, Flutter, Typescript, Solidity, Laravel, Vue.js \
+Frameworks: React, Node.js, Django, Flutter, Typescript, Solidity, Laravel, Vue.js, Web3.js \
 Tools: Git, Docker, AWS \
 Databases: MySQL, PostgreSQL, MongoDB
 
