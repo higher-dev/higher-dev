@@ -7,7 +7,7 @@ Skills:
 Languages: JavaScript, Python, Java, C++ \
 Frameworks: React, Node.js, Django, Flutter, Typescript, Solidity, Laravel, Vue.js \
 Tools: Git, Docker, AWS \
-Databases: MySQL, PostgreSQL, MongoDB \
+Databases: MySQL, PostgreSQL, MongoDB
 
 Values:
 
